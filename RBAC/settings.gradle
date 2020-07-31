@@ -1,0 +1,3 @@
+include ':RoleBaseAccessControllibrary'
+include ':app'
+rootProject.name = "RBAC"
